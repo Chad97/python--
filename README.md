@@ -1,3 +1,4 @@
-# python 网络爬虫
+# :globe_with_meridians: ​python 网络爬虫 
 
-> 实现从基本库到框架库道爬虫实践
+> 实现从基本库到框架库的爬虫实践
+
